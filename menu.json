@@ -1,0 +1,231 @@
+{
+    "date": "Thu Nov 09 2017 21:32:17 GMT-0600 (CST)",
+    "items": [
+        {
+            "categoryName": "Hamburguesas",
+            "image": "burger03.jpg",
+            "items": [
+                {
+                    "name": "Hamburguesa Sencilla",
+                    "description": "100 gr. Carne de Res, Queso Amarillo, Jitomáte, Lechuga y Mayonesa.",
+                    "price": 45
+                },
+                {
+                    "name": "Hamburguesa Hawaiana",
+                    "description": "Hamburguesa Sencilla + Piña.",
+                    "price": 55
+                },
+                {
+                    "name": "Hamburguesa Doble",
+                    "description": "Hamburguesa Sencilla + Extra Carne.",
+                    "price": 75
+                },
+                {
+                    "name": "Hamburguesa Doble Hawaiana",
+                    "description": "Hamburguesa Doble + Piña.",
+                    "price": 85,
+                    "favorite": true
+                },
+                {
+                    "name": "Piña Extra",
+                    "price": 10
+                },
+                {
+                    "name": "Carne Extra",
+                    "price": 30
+                }
+            ]
+        },
+        {
+            "categoryName": "Desayunos",
+            "image": "hotcakes01.jpg",
+            "items": [
+                {
+                    "name": "Bagel",
+                    "description": "Huevo con Jamón o Tocino o Panela.",
+                    "price": 40
+                },
+                {
+                    "name": "Molletes Dulces",
+                    "description": "Con Mermelada o Lechera o Nutella.",
+                    "price": 26
+                },
+                {
+                    "name": "Molletes Salados",
+                    "description": "Frijoles, Queso Gratinado y Pico de Gallo.",
+                    "price": 35
+                },
+                {
+                    "name": "Hot-Cakes Sencillos",
+                    "description": "Mantequilla y Mermelada.",
+                    "price": 25
+                },
+                {
+                    "name": "Hot-Cakes con Fruta",
+                    "description": "Hot-Cakes Sencillos + Fruta (Manzana, Platano o Moras).",
+                    "price": 30
+                },
+                {
+                    "name": "Cruji Pan",
+                    "description": "Pan Tostado + (Frutos Rojos, Durazno, Nutella o Cajeta).",
+                    "price": 20,
+                    "favorite": true
+                },
+                {
+                    "name": "Sandwich Nutella",
+                    "description": "Pan + Nutella.",
+                    "price": 16,
+                    "favorite": true
+                },
+                {
+                    "name": "Lonche De Jamón",
+                    "description": "Jamón, Jitomate y Cebolla.",
+                    "price": 26
+                },
+                {
+                    "name": "Lonche De Pierna o Panela",
+                    "description": "Pierna o Queso Panela, Jitomate y Cebolla.",
+                    "price": 30
+                }
+            ]
+        },
+        {
+            "categoryName": "Almuerzos",
+            "image": "sandwich01.jpg",
+            "items": [
+                {
+                    "name": "Sandwich Junior",
+                    "description": "Pan Blanco, Jamón, Queso Amarillo, Jitomate y Cebolla.",
+                    "price": 11
+                },
+                {
+                    "name": "Sandwich Especial",
+                    "description": "Pan Blanco o Integral, Jamón, Queso Oaxaca, Lechuga, Jitomate y Cebolla.",
+                    "price": 27
+                },
+                {
+                    "name": "Hamburbagel",
+                    "description": "Bagel, 200 gr. Carne de res, Queso amarillo, Jitomáte, Lechuga y Mayonesa.",
+                    "price": 50
+                },
+                {
+                    "name": "Ensalada Chica",
+                    "description": "Pollo o Atún o Queso Panela.",
+                    "price": 50
+                },
+                {
+                    "name": "Ensalada Grande",
+                    "description": "Pollo o Atún o Queso Panela.",
+                    "price": 78
+                },
+                {
+                    "name": "Baguette de Pavo o Peperonni",
+                    "description": "Pan, Pavo o Peperonni, Lechuga, Jitomate, Cebolla y Mayonesa.",
+                    "price": 55
+                },
+                {
+                    "name": "Baguette de Pollo o Panela",
+                    "description": "Queso Panela o Pechuga de Pollo, Lechuga, Jitomate, Cebolla y Mayonesa.",
+                    "price": 65
+                },
+                {
+                    "name": "Cuernito de Pavo",
+                    "description": "Cuernito de Pavo, Lechuga, Jitomate, Cebolla y Mayonesa.",
+                    "price": 25
+                }
+            ]
+        },
+        {
+            "categoryName": "Postres",
+            "image": "muffin01.jpg",
+            "items": [
+                {
+                    "name": "Cuernito Dulce",
+                    "description": "Nutella o Mermelada y Mantequilla.",
+                    "price": 15
+                },
+                {
+                    "name": "Muffin",
+                    "price": 12
+                },
+                {
+                    "name": "Cuerno Relleno",
+                    "price": 12
+                },
+                {
+                    "name": "Gelatina",
+                    "description": "Sabores: fresa, uva o cajeta.",
+                    "price": 12
+                },
+                {
+                    "name": "Cocktel de Fruto Con Yogurt Chico",
+                    "description": "Piña, Papaya, Sandía, Manzana",
+                    "price": 18
+                },
+                {
+                    "name": "Cocktel de Fruto Con Yogurt Grande",
+                    "description": "Piña, Papaya, Sandía, Manzana",
+                    "price": 25
+                }
+            ]
+        },
+        {
+            "categoryName": "Jugos y Licuados",
+            "image": "jugo01.jpg",
+            "items": [
+                {
+                    "name": "Jugo de Naranja",
+                    "price": 15
+                },
+                {
+                    "name": "Jugo de Toronja",
+                    "price": 17
+                },
+                {
+                    "name": "Jugo de Mixto",
+                    "price": 16
+                },
+                {
+                    "name": "Jugos Especiales",
+                    "price": 22
+                },
+                {
+                    "name": "Licuado de Fresa o de Plátano",
+                    "price": 17
+                },
+                {
+                    "name": "Licuados Especiales",
+                    "price": 22
+                },
+                {
+                    "name": "Malteadas",
+                    "price": 35
+                }
+            ]
+        },
+        {
+            "categoryName": "Bebidas",
+            "image": "cafe01.jpg",
+            "items": [
+                {
+                    "name": "Té",
+                    "description": "Varios Sabores",
+                    "price": 12
+                },
+                {
+                    "name": "Café",
+                    "price": 13
+                },
+                {
+                    "name": "Té Helado",
+                    "price": 13
+                },
+                {
+                    "name": "Agua de Sabor",
+                    "description": "Sabores: Fresa, Piña, Melón.",
+                    "price": 13
+                }
+            ]
+        }
+    ]
+}
