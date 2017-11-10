@@ -86,6 +86,21 @@
                     "name": "Lonche De Pierna o Panela",
                     "description": "Pierna o Queso Panela, Jitomate y Cebolla.",
                     "price": 30
+                },
+                {
+                    "name": "Chilaquiles Sencillos",
+                    "description": "Queso y Crema.",
+                    "price": 30
+                },
+                {
+                    "name": "Chilaquiles Con Huevo",
+                    "description": "Queso, Crema y Huevo Estrellado.",
+                    "price": 40
+                },
+                {
+                    "name": "Chilaquiles Con Pollo",
+                    "description": "Queso, Crema y Pollo.",
+                    "price": 55
                 }
             ]
         },
@@ -163,7 +178,7 @@
                     "price": 18
                 },
                 {
-                    "name": "Cocktel de Fruto Con Yogurt Grande",
+                    "name": "Cocktel de Frutas Con Yogurt Grande",
                     "description": "Piña, Papaya, Sandía, Manzana",
                     "price": 25
                 }
